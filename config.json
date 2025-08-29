@@ -1,0 +1,5 @@
+{
+    "frame_width": 640,
+    "frame_height": 480,
+    "detection_interval_ms": 500
+}
